@@ -24,7 +24,10 @@ Recommended Platform: AWS
 
 AWS would be a suitable platform for the e-commerce company because it needs an infrastructure that can handle customers from many countries. Its cloud resources can be scaled when website traffic increases and can help keep the application available during busy periods. The company could use Amazon EC2 to host its application, Elastic Load Balancing to distribute incoming traffic, and Amazon RDS to handle its database.
 
-## Multi-Cloud Decision Matrix
+
+
+
+## Checkpoint 6 - Multi-Cloud Decision Matrix
 
 | **Business Requirement** | **Recommended Platform** | **Justification**                                                                                         |
 | ------------------------ | ------------------------ | --------------------------------------------------------------------------------------------------------- |
