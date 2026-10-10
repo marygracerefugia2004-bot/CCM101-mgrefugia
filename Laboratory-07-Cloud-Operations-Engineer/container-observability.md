@@ -6,3 +6,7 @@
 ```
 
 Application logs show what happened and when, like camera footage. They help me find the cause of a problem fast instead of guessing.
+
+## Container Metrics (client-website)
+- **Memory Usage:** 2.73MiB
+- **CPU %:** 0.00%
