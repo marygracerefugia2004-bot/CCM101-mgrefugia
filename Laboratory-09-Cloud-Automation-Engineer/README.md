@@ -2,15 +2,24 @@
 
 ## Mission Overview
 
-This activity focuses on using Bash scripts and Cron to automate a backup task. The goal is to create a backup of sample application data and schedule the script to run automatically.
+Congratulations! Your ability to secure cloud environments has proven that you are ready for the highest level of operations. You have been promoted to the Cloud Automation and DevOps Team at CloudNova Technologies.
+
+Until now, you have been working as a traditional systems administrator, typing commands manually one by one. In large enterprise environments with thousands of servers, manual administration is too slow and can easily lead to human errors. To manage these systems efficiently, you need to learn automation.
+
+Using the KillerCoda Playground, you will take on the role of a Cloud Automation Engineer. You will learn the basics of Bash shell scripting, create an automated backup routine, assign executable permissions, and configure the Linux Cron scheduler to run your script automatically.
+
+**Remember:** If you have to do a task more than twice in the cloud, you should automate it.
 
 ## Objectives
 
-- Understand basic Bash script syntax and variables.
-- Create and execute a Bash script.
-- Use `chmod` to change file permissions.
-- Understand Cron scheduling.
-- Document automation work using Markdown.
+At the end of this laboratory activity, you should be able to:
+
+- Understand the basic syntax of a Bash shell script, including variables and basic commands.
+- Use the command-line text editor `nano` to write and save executable scripts.
+- Modify Linux file permissions using the `chmod` command.
+- Understand task scheduling and the syntax of a Linux crontab.
+- Document automation code and Cron job configurations using Markdown.
+- Complete the final chapter of your GitHub Cloud Computing Portfolio.
 
 ## Commands Executed
 
